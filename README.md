@@ -12,11 +12,13 @@ A modern Tic Tac Toe game built with Pygame, featuring an unbeatable AI opponent
 
 ## Screenshots
 
-![App start](assets/start.png) 
-*Showing the app start screen*
+<table>
+  <tr>
+    <td><img src="assets/start.png" alt="App start"></td>
+    <td><img src="assets/gameplay.png" alt="Main game interface with Dracula theme"></td>
+  </tr>
+</table>
 
-![Game Interface](assets/gameplay.png) 
-*Main game interface with Dracula theme*
 
 ## Requirements
 - Python 3.6+
@@ -27,7 +29,7 @@ A modern Tic Tac Toe game built with Pygame, featuring an unbeatable AI opponent
 1. Clone the repository: 
 
 ```bash
-git clone https://github.com/subaashnair/TicTacBot.git
+git clone https://github.com/SubaashNair/TicTacBot.git
 ```
 
 2. Install dependencies:
