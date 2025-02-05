@@ -10,6 +10,14 @@ A modern Tic Tac Toe game built with Pygame, featuring an unbeatable AI opponent
 - Game statistics tracking
 - Modern button design and hover effects
 
+## Screenshots
+
+![App start](assets/start.png) 
+*Showing the app start screen*
+
+![Game Interface](assets/gameplay.png) 
+*Main game interface with Dracula theme*
+
 ## Requirements
 - Python 3.6+
 - Pygame 2.5.2
