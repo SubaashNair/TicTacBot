@@ -51,7 +51,9 @@ python tic_tac.py
 
 ## Game Rules
 
-    The game is played on a 3x3 grid. The player and the AI take turns marking the spaces in the grid. The player can mark the spaces with an 'X' and the AI can mark the spaces with a 'O'. The player wins if they can mark three spaces in a row, column, or diagonal. The AI wins if the player cannot win in the next move.
+
+The game is played on a 3x3 grid. The player and the AI take turns marking the spaces in the grid. The player can mark the spaces with an 'X' and the AI can mark the spaces with a 'O'. The player wins if they can mark three spaces in a row, column, or diagonal. The AI wins if the player cannot win in the next move.
+
 
 ## Leaderboard
 
